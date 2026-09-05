@@ -2,4 +2,4 @@ Application
 Version: 1.0
 Status: Development
 
-Payment Feature: Added
+Payment Feature: In progresss
